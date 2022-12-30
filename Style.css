@@ -22,7 +22,7 @@ body{
     height:50px;
     border-radius:50%;
     background-color: red;
-    animation: jump 10s linear;
+    animation: jump 0.8s linear;
     animation-iteration-count:infinite;
     top:100px;
     left:220px;
@@ -37,7 +37,7 @@ body{
     background-color:rgb(8, 8, 8);
     left:212px;
     top:340px;
-    animation: resize 10s linear;
+    animation: resize 0.8s linear;
     animation-iteration-count:infinite;
     z-index:1;
     opacity:0.5;
